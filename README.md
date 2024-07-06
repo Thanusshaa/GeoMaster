@@ -70,6 +70,12 @@ Dynamic Answer
 
 Real-Time Data
 
+## Screenshot of application
+![Interactive Q&A](Q%20and%20A.png)
+
+![Dynamic Answer](dynamic%20answer.png)
+
+![Real-Time Data](realtime%20data.png)
 ## Acknowledgements
 
 The development team behind GeoMaster AI acknowledges the significant contributions of various technologies and frameworks that made this project possible. 
